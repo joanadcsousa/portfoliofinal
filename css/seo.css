@@ -648,7 +648,7 @@ transition: all .5s ease;
         gap: 1rem;
     }
     .Seo-grid{
-      max-height: 300vh; /*para controlar los espacios entre los divs de la grid*/
+      max-height: 250vh; /*para controlar los espacios entre los divs de la grid*/
   }
   }
 
